@@ -4,7 +4,7 @@ public class Kahoot {
 	
 	public static void main(String[] args) {
 		
-		/*
+		
 		// Question 5
 		int Batch = 12;
 		
@@ -19,6 +19,7 @@ public class Kahoot {
 				
 		}
 		
+		/*
 		// Question 8
 		int x = 5, y = 19;
 		int num = y - x > x - y ? y - x : x - y;

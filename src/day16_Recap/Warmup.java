@@ -6,6 +6,7 @@ public class Warmup {
 	
 	public static void main(String[] args) {
 		
+		
 		String firstName, lastName;
 		System.out.println("Enter your first name: ");
 		Scanner keyboard = new Scanner (System.in);
@@ -18,9 +19,8 @@ public class Warmup {
 		String fullName = firstName.concat(" "+lastName).toUpperCase();
 		System.out.println(fullName);
 		
-
 		
-		
+		 
 	}
 
 }
